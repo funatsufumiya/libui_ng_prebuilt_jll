@@ -2,15 +2,19 @@
 
 **NOTE**: This repository is not registered in public package manager, so you need to add this via `] add https://github.com/xxx/yyy.git` etc.
 
-## Develop
+## Usage
 
-see https://github.com/funatsufumiya/libui_ng_prebuilt_jll_packager.jl
-
-## Check
+see https://github.com/funatsufumiya/LibUiTest.jl
 
 ```bash
 julia --project=@. -e 'using libui_ng_prebuilt_jll; println(libui_ng_prebuilt_jll.get_lib_path())'
 ```
+
+## Develop
+
+see https://github.com/funatsufumiya/libui_ng_prebuilt_jll_packager.jl
+
+### Check
 
 ```julia
 julia> using ArtifactUtils
