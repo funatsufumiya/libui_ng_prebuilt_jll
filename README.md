@@ -6,6 +6,10 @@ see https://github.com/funatsufumiya/libui_ng_prebuilt_jll_packager.jl
 
 ## Check
 
+```bash
+julia --project=@. -e 'using libui_ng_prebuilt_jll; println(libui_ng_prebuilt_jll.get_lib_path())'
+```
+
 ```julia
 julia> using ArtifactUtils
 
