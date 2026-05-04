@@ -1,0 +1,14 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "0b43da37dc991a76a43f8be30f907904487af707"
+
+[[deps.Artifacts]]
+uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+version = "1.11.0"
+
+[[deps.libui_ng_prebuilt_jll]]
+path = "."
+uuid = "b42aaa73-0a05-4e59-960d-07cbce8fb00f"
+version = "0.1.0"
