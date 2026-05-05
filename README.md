@@ -1,6 +1,6 @@
 # libui_ng_prebuilt_jll
 
-**NOTE**: This repository is not registered in public package manager, so you need to add this via `] add https://github.com/xxx/yyy.git` etc.
+**NOTE**: This repository is not registered in public package manager, so you need to add this via `pkg> add https://github.com/xxx/yyy.git` etc.
 
 ## Usage
 
